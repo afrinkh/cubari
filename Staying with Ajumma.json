@@ -4,5 +4,22 @@
   "artist": "Jjang-yi",
   "author": "  Gregor",
   "cover": "https://toonily.com/wp-content/uploads/2022/02/47c7e122-acea-416d-801d-82afe6293b93-1-224x320.jpg",
-  "chapters": {}
+  "chapters": {
+    "49": {
+      "title": "49",
+      "volume": "",
+      "last_updated": "1678692629",
+      "groups": {
+        "": [
+          "https://drive.google.com/uc?export=view&id=1RsN2MvQp2Ri425GMbbZBAuSqzRQvXqhj",
+          "https://drive.google.com/uc?export=view&id=1sNWCUfYpKUlqKPhVxpwbdADL5ay7J8vV",
+          "https://drive.google.com/uc?export=view&id=1G37U5tBb5yxsQ6EMEnP4W0P-s20wYEcs",
+          "https://drive.google.com/uc?export=view&id=1pvwIIVHqir0q4O-a-V97rmdUAe9-PbQC",
+          "https://drive.google.com/uc?export=view&id=1PUIKTW3zsOY3ogh8SOntsUU1IIB2moWU",
+          "https://drive.google.com/uc?export=view&id=1OIu6sIIaqP7_lzr3-1RvC47IZzq64MpZ",
+          "https://drive.google.com/uc?export=view&id=1xQhhdF3aQlU0sXv7QDx7EdGmIppAynKN"
+        ]
+      }
+    }
+  }
 }
